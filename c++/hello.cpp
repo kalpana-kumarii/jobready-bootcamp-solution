@@ -1,6 +1,9 @@
 #include<iostream>
 using namespace std;
 int main(){
- cout<<"hello world!";
-    return 0;
+    int a,res=0;
+    a= -8,+7;
+
+ cout<<"hello world! "<<a;
+
 }
