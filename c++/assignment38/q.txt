@@ -1,0 +1,17 @@
+list
+1. List functions in C++ STL (Standard Template Library)
+2. Assign the elements to the list (different methods) - Example of list::assign() | C++
+STL
+3. Iterate a list C++ STL
+4. Iterate a list in reverse order C++ STL
+5. Input and add elements to a list C++ STL
+6. Get the first and last element of the list C++ STL
+7. Insert the element at beginning and end of the list | C++ STL
+8. Remove all occurrences of an element and remove set of some specific from the list
+C++ STL
+9. Remove all consecutive duplicate elements from the list | C++ STL
+10. Merge two lists C++ STL
+11. Creating a list by assigning the all elements of another list C++ STL
+12. Assign a list with array elements C++ STL
+13. Push characters in a list and print them separated by space in C++ STL
+14. Access elements of a characters list using const_iterator in C++ ST

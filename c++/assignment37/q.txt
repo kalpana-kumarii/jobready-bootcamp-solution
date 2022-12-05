@@ -1,0 +1,11 @@
+STL: vector
+1. Declare a vector with Initialization and print the elements.
+2. Declare a vector without initialization, insert some elements and print
+3. Write a function to print the element of a vector and take input from the user.
+4. Write a program to Copy one vector’s elements to another vector.
+5. Find largest and smallest elements in a vector
+6. Write a program to reverse vector elements
+7. Write a program to find sum of vector elements
+8. Write a program to find common elements between two vectors.
+9. Write a program to Push and print elements in a float vector
+10. Write a program to check whether an element exists in a vector or no

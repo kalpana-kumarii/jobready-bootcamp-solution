@@ -1,0 +1,14 @@
+STL: array
+1. Using STL Array gets and sets a reference to an element based on a given index.
+2. Using STL Array returns the total number of elements in the array.
+3. Find the first and last element using the STL array.
+4. Returns the element from the given index using the STL array.
+5. C++ STL program to demonstrate example of array::rbegin() and array::rend()
+functions
+6. Using STL to check whether an array is empty or not.
+7. Sort an array in ascending order using sort() function in C++ STL
+8. Sort an array in descending order using sort() function in C++ STL
+9. C++ program to find the integers which come an odd number of times in an array
+using C++ STL.
+10. Given an integer array nums , return an array answer such that answer[i] is equal to
+the product of all the elements of nums except nums[i] 

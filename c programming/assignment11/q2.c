@@ -16,6 +16,6 @@ int hcf(int a, int b){
 
 }
 int main(){
-printf("%d",hcf(4,30));
+printf("%d",hcf(7,14));
     return 0;
 }
