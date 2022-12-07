@@ -10,7 +10,7 @@ for(i=0;str[i];i++);
 char str2[i-1];
 for(int j=0;j<i;j++){
     str2[j]=str[j];
-    printf("str= %c str2=%c j=%d\n",str2[j],str[j],j);
+   // printf("str= %c str2=%c j=%d\n",str2[j],str[j],j);
 }
 // for(i=0;str2[i];i++);
 // printf("%d\n",i);

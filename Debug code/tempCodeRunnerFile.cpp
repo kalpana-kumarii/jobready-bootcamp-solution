@@ -1,1 +1,0 @@
-"str[i]="<<str[i]<<" indx="<<indx<<" res="<<res<<" i="<<i<
