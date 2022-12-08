@@ -1,0 +1,1 @@
+totalcol+=a1[j][i];
