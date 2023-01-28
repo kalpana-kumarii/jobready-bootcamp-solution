@@ -9,4 +9,4 @@ Pointers
 pointer.
 8. Write a program to compute the sum of all elements in an array using pointers.
 9. Write a program to print the elements of an array in reverse order.
-10. Write a program to print a string in reverse using a pointe
+10. Write a program to print a string in reverse using a pointer
