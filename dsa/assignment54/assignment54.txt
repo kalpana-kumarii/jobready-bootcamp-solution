@@ -1,0 +1,11 @@
+1. Create an ADT array without using STL.
+2. Create an array and implement a search function in the array.
+3. Create a function in Array to reverse an array.
+4. Create a function in Array to sort the given array
+5. Create a function in Array to check the size of an array.
+6. Create a Dynamic array without using STL.
+7. Create a function in a dynamic array to return the size of the array.
+8. Create a function in a dynamic array to return the capacity of the array.
+9. Create an array and implement a search function in the array.
+10. Create a function in Array to reverse an array.
+11. Create a function in Array to sort the given array
