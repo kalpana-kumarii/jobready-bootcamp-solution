@@ -1,0 +1,2 @@
+
+            t->next=temp;
